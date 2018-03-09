@@ -23,9 +23,11 @@ var tt_theLanguage = 'es';
 <script type="text/javascript" src="/res/js/tt_basics.js?d"></script>
 <script type="text/javascript" src="/res/js/lorem-ipsum-generator-noflash.js?d"></script>
 <script type="text/javascript" src="/res/js/jqdnr.js?d"></script>
+<!-- Aquí empieza la cabecera de la web -->
+<header>Aquí metemos el contenido de la cabecera de</header>
+<!-- Fin de la cabecera -->
 </head>
 
-    
 <body onunload="generator6_unload();">
 <div id="page">
 <!-- header -->
