@@ -2,27 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="language" content="es" />
-<meta http-equiv="imagetoolbar" content="no" />
-<title>|| Generador de texto simulado | Lorem ipsum para diseñadores de páginas web ||</title>
-<meta name="language" content="es" />
-<meta name="keywords" content="texto simulado,lipsum,lorem ipsum,texto ficticio,texto de relleno,online,Generador,css,webdesign" />
-<meta name="description" content="Generador de texto simulado on-line para crear fácilmente textos simulados y formateado CSS para trabajos de maquetación." />
-<meta name="robots" content="index, follow" />
-<link rel="stylesheet" type="text/css" href="/res/css/btg_layout_2.css?d" media="screen" />
-<!--[if lte IE 6]>
-<link rel="stylesheet" type="text/css" media="screen" href="/res/css/btg_fixie6.css?d" />
-<![endif]-->
-<script type="text/javascript">
-var tt_theLanguage = 'es';
-</script>
-<script type="text/javascript" src="/res/js/jquery-1.4.1.min.js?d"></script>
-<script type="text/javascript" src="/res/js/clipboard.min.js?d"></script>
-<script type="text/javascript" src="/res/js/replacement.js?d"></script>
-<script type="text/javascript" src="/res/js/tt_basics.js?d"></script>
-<script type="text/javascript" src="/res/js/lorem-ipsum-generator-noflash.js?d"></script>
-<script type="text/javascript" src="/res/js/jqdnr.js?d"></script>
+
 </head>
 
     
