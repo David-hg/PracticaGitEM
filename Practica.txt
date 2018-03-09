@@ -2,10 +2,11 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
 <head>
-
+<!-- Aquí empieza la cabecera de la web -->
+<header>Aquí metemos el contenido de la cabecera de</header>
+<!-- Fin de la cabecera -->
 </head>
 
-    
 <body onunload="generator6_unload();">
 <div id="page">
 <!-- header -->
